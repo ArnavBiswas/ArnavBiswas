@@ -1,34 +1,38 @@
-<!-- Banner Image (Optional) -->
+<!-- Banner -->
 <p align="center">
   <img src="https://i.gifer.com/origin/3e/3e19c6bc0342d7c63108cfd1fd58a0f0.gif" width="100%" alt="banner" />
 </p>
 
-<h1 align="center">Hi there, I'm Arnav 👋</h1>
+<!-- Typing Intro -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi+I'm+Arnav+Biswas!;Computer+Engineering+Student;AI%2FML+Enthusiast;Open+Source+Learner" alt="Typing SVG" />
+</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ArnavBiswas&color=blue" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/ArnavBiswas?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/ArnavBiswas?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/followers/ArnavBiswas?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/ArnavBiswas?affiliations=OWNER%2CCOLLABORATOR&style=social" />
 </p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-🎓 I'm a pre-final year B.Tech Computer Science and Engineering student at Siliguri Institute of Technology.  
-💡 I have a strong foundation in programming, machine learning, and web development.  
-🧠 I love solving real-world problems using AI and enjoy creating elegant interfaces and tools.  
-🌱 Always exploring new technologies to grow as a developer and tech innovator.
+🎓 Pre-final year B.Tech CSE student at Siliguri Institute of Technology  
+🧠 Skilled in Python, C, Java, and ML tools like Jupyter and Streamlit  
+💡 Passionate about solving real-world problems with AI  
+🌱 Currently learning full-stack development and deploying ML models  
+🎯 Always looking for impactful tech projects and collaborations  
 
 ---
 
 ## 🧩 Current Projects
 
-- 🦠 **Disease Prediction System** — ML-powered health predictor based on structured datasets.
+- 🦠 **Disease Prediction System** – Structured dataset analysis with classification models  
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -42,15 +46,23 @@
 
 ---
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ArnavBiswas&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
+</p>
+
+---
+
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBiswas&show_icons=true&theme=tokyonight&count_private=true" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBiswas&layout=compact&theme=tokyonight" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBiswas&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBiswas&layout=compact&theme=tokyonight" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ArnavBiswas&theme=tokyo-night&bg_color=000000&color=00ffe4&line=00e6e6&point=ffffff" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBiswas&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
@@ -59,4 +71,4 @@
 
 ---
 
-⭐ *Thanks for visiting my profile! Feel free to check out my projects and drop a star if you like them!*
+⭐ *Thanks for visiting! Check out my repositories and feel free to star 🌟 the ones you like!*
