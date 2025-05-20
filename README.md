@@ -1,6 +1,6 @@
 # Hi there, I'm Arnav 👋
 
-🎓 I'm a Computer Engineering student at Siliguri Institute of Technology (SIT), passionate about **AI/ML**, **software development**, and **open source**.
+🎓 I'm a Computer Engineering student at Siliguri Institute of Technology (SIT), passionate about **ML**, **software development**.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArnavBiswas&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/ArnavBiswas?label=Followers&style=social)
