@@ -8,12 +8,14 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on:
-  - 🧠 AI-powered LMS that recommends books based on user data
-  - 🤖 Student query chatbot for academic/admin assistance
-  - 📸 Change detection using Faster R-CNN for satellite/drone images
+## 🧩 Current Projects
 
-- 💡 Interests:
+- 🦠 **Disease Prediction System**  
+  A data-engineered ML project that analyzes structured datasets to predict diseases based on user input.
+
+
+## 💡 Interests:
+
   - Machine Learning & Deep Learning
   - Backend Development
   - Data Engineering
