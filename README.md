@@ -1,12 +1,16 @@
 # Hi there, I'm Arnav 👋
 
-🎓 I'm a Computer Engineering student at Siliguri Institute of Technology (SIT), passionate about **ML**, **software development**.
+🎓 I'm a Computer Engineering student at Siliguri Institute of Technology (SIT).
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ArnavBiswas&color=blue)
 ![GitHub Followers](https://img.shields.io/github/followers/ArnavBiswas?label=Followers&style=social)
 ![GitHub Stars](https://img.shields.io/github/stars/ArnavBiswas?affiliations=OWNER%2CCOLLABORATOR&style=social)
 
-## 🚀 About Me
+## 🙋‍♂️ About Me
+
+I'm a pre-final year B.Tech Computer Science and Engineering student at Siliguri Institute of Technology. I have a strong foundation in programming, machine learning, and web development, and I'm passionate about applying my skills to solve real-world problems.
+
+With experience in Python, C, Java, and tools like Jupyter and Streamlit, I enjoy building practical AI applications and clean web interfaces. I'm constantly learning and exploring new technologies to grow as a developer and problem-solver in the tech world.
 
 ## 🧩 Current Projects
 
