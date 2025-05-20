@@ -27,7 +27,7 @@
 ---
 
 ## 🧩 Current Projects
-
+ 
 - 🦠 **Disease Prediction System** – Structured dataset analysis with classification models  
 
 ---
@@ -54,15 +54,11 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ArnavBiswas&show_icons=true&theme=tokyonight&count_private=true&hide=contribs" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBiswas&layout=compact&theme=tokyonight" height="180px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBiswas&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
