@@ -18,11 +18,10 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 Pre-final year B.Tech CSE student at Siliguri Institute of Technology  
-🧠 Skilled in Python, C, Java, and ML tools like Jupyter and Streamlit  
-💡 Passionate about solving real-world problems with AI  
-🌱 Currently learning full-stack development and deploying ML models  
-🎯 Always looking for impactful tech projects and collaborations  
+🎓 Pre-final year B.Tech CSE student at Siliguri Institute of Technology  .
+
+🌱 Currently learning deploying ML models . 
+
 
 ---
 
@@ -43,14 +42,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ArnavBiswas&theme=tokyonight&no-frame=true&margin-w=15&column=7" />
-</p>
 
 ---
 
