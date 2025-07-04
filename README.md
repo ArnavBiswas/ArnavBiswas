@@ -18,7 +18,7 @@
 
 ## 🙋‍♂️ About Me
 
-🎓 Pre-final year B.Tech CSE student at Siliguri Institute of Technology  .
+🎓 Final year B.Tech CSE student at Siliguri Institute of Technology  .
 
 🌱 Currently learning deploying ML models . 
 
