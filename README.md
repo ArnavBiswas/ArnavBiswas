@@ -52,15 +52,6 @@ Fun Fact:
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ArnavBiswas&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArnavBiswas&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🔐 Hybrid Machine Learning Framework for Geospatial Cyber Crime Prediction
@@ -79,22 +70,9 @@ Fun Fact:
 
 ---
 
-## 🎯 2026 Goals
-
-* 🚀 Deploy End-to-End ML Applications
-* 🧠 Strengthen DSA & Problem Solving
-* 📄 Publish Research Work
-* 🌟 Contribute to Open Source
-* ☁️ Learn Cloud Technologies
-
----
-
 ## 💡 Quote
 
 > "Turning Data into Intelligence, One Model at a Time."
 
 ---
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
