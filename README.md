@@ -29,8 +29,6 @@ Currently Learning:
   - React + Flask
   - Advanced Data Analytics
 
-Fun Fact:
-  - I enjoy transforming real-world data into meaningful insights.
 ```
 
 ---
