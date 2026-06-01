@@ -47,15 +47,6 @@ Fun Fact:
 </p>
 
 ---
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ArnavBiswas&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🔐 Hybrid ML Framework for Cyber Crime Prediction
